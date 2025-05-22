@@ -11,6 +11,8 @@ public class Test_31_Literal {
         char c6= '*';
         char c7= ')';
         char c8= 'A';
+        char ck = ' ';
+
 //        char c9 = "A"; Note: String is always written in double quote
         // Character is always witten in single quote
         // String = It is a bunch of character like "Akshay" "Pune"
